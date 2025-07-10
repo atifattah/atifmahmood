@@ -1,34 +1,49 @@
-👋 Hi there, I'm Atif Mahmood!
-Data Analyst | Data Scientist | Dashboard Builder | Cloud & Log Analytics Enthusiast
+# 👋 Hi there, I'm Atif Mahmood!
 
-📍 Based in India
-💼 Let's connect on LinkedIn
-📧 Reach me at: rratif@yahoo.in
+**🔍 Data Analyst | 📊 Data Scientist | 📈 Dashboard Builder | ☁️ Cloud & Log Analytics Enthusiast**
 
-🚀 About Me
-I'm a results-driven Data Analyst/Data Scientist with hands-on experience in transforming complex data into actionable insights. With a strong background in SQL, Python, AWS, and data visualization, I help businesses make informed decisions through intuitive dashboards and automation.
+📍 *Based in India*  
+💼 [Let's connect on LinkedIn](https://www.linkedin.com/in/atif-mahmood-attah/)  
+📧 *Reach me at:* rratif@yahoo.in
 
-My work spans across industries including finance, media, gaming, food services, and facilities management. From building ETL pipelines and processing log data from S3/ELK to developing machine learning models and dashboards in Power BI and Plotly Dash — I love solving problems with data and building tools that drive efficiency and impact.
+---
 
-🔧 Technologies & Tools
-Data Engineering & Analysis
+## 🚀 About Me
 
-Python, Pandas, NumPy, Scikit-learn
+I'm a results-driven **Data Analyst & Scientist** with a passion for uncovering insights and building data-driven solutions. With hands-on experience across data extraction, transformation, analysis, and visualization, I help businesses unlock the full value of their data.
 
-SQL, MySQL, AWS Athena
+My work spans **finance, media, gaming, food services, and facilities management**, where I’ve:
+- Built robust **ETL pipelines** and automated reporting workflows
+- Analyzed **S3/ELK logs** for behavioral and system insights
+- Developed **interactive dashboards** using **Power BI** and **Plotly Dash**
+- Applied **machine learning models** for forecasting, classification, and optimization
 
-ELK Stack, AWS S3, AWS Lambda
+I enjoy solving real-world problems with data and am always eager to explore new technologies and methods.
 
-Power BI, Plotly Dash, Matplotlib, Seaborn
+---
 
-Machine Learning & Modeling
+## 🔧 Technologies & Tools
 
-Linear/Logistic Regression, Random Forest, XGBoost
+### 🧠 Data Science & ML
+- Python (Pandas, NumPy, Scikit-learn)
+- ML Models: Linear/Logistic Regression, Random Forest, XGBoost
+- Forecasting, Optimization, Classification
 
-Forecasting, Optimization, Classification
+### 💽 Data Engineering & Analytics
+- SQL, MySQL, AWS Athena
+- ELK Stack, AWS S3, AWS Lambda
+- Power BI, Plotly Dash, Matplotlib, Seaborn
 
-Deployment & DevOps
+### ⚙️ DevOps & Automation
+- Git, GitHub, Docker
+- AWS SES, Automation Scripts, Scheduled Reports
 
-Git, GitHub, Docker, AWS SES
+---
 
-Automation Scripts, Scheduled Reports
+## 🤝 Let's Collaborate
+
+I'm always open to collaborating on exciting **data-driven projects**, whether it’s building dashboards, analyzing logs, automating workflows, or exploring ML applications.
+
+If you’re working on something interesting or want to discuss ideas — feel free to reach out!
+
+---
